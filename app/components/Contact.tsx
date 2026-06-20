@@ -39,7 +39,7 @@ export default function Contact() {
                             <div>
                                 <p className="font-semibold">Alternate Mobile</p>
                                 <a
-                                    href="tel:+919966885581"
+                                    href="tel:+917386299296"
                                     className="text-blue-600 hover:underline"
                                 >
                                     +91 7386299296
