@@ -42,7 +42,7 @@ export default function Contact() {
                                     href="tel:+919966885581"
                                     className="text-blue-600 hover:underline"
                                 >
-                                    +91 99668 85581
+                                    +91 7386299296
                                 </a>
                             </div>
 
