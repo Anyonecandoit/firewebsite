@@ -1,11 +1,11 @@
 const services = [
-    "Designing Fire Safety Systems",
-    "Fire Alarm Systems",
-    "Installation of Fire Pumps",
-    "Fire Escape Stair Design",
-    "Fire Rated Emergency Doors",
-    "Fire NOC Processing",
-    "Fire Audit & Risk Assessment",
+    "Fire Safety Consultancy",
+    "Fire Drawings & Fire NOC Processing",
+    "Installation, Testing & Commissioning of Fire Safety Equipment",
+    "Fire Hydrant Systems & Pump Room Systems",
+    "Fire Alarm Systems & Public Address (PA) Systems",
+    "Fire Audit & Fire AMC",
+    "Fire NOC Approval from Fire Department"
 ];
 
 export default function Services() {

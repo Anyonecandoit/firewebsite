@@ -2,7 +2,7 @@ export default function Process() {
     const stages = [
         {
             title: "Stage 1",
-            text: "Fire Drawings Preparation & Provisional Fire NOC"
+            text: "Fire Drawings Preparation & liaisoning of  Fire NOC"
         },
         {
             title: "Stage 2",
@@ -10,11 +10,11 @@ export default function Process() {
         },
         {
             title: "Stage 3",
-            text: "Fabrication, Installation & Commissioning"
+            text: "Installation, Testing & Commissioning of Fire Safety Equipment"
         },
         {
             title: "Stage 4",
-            text: "Final Fire Drawings & Occupancy NOC"
+            text: "Fire NOC Approval from  Fire Department"
         }
     ];
 
